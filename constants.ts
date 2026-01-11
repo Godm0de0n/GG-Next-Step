@@ -1,4 +1,4 @@
-export const BIRTHDAY_NAME = "ALEX"; // Change this to the birthday person's name
+export const BIRTHDAY_NAME = "Rittick"; // Change this to the birthday person's name
 
 export const FALLBACK_QUOTES = [
   "Level up! Another year wiser, faster, and more scalable.",
